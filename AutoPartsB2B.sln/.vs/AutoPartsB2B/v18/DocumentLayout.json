@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Emre\\source\\repos\\AutoPartsB2B.sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{279DFFA5-8A2B-472E-845A-AE7162F08B64}|AutoPartsB2B.WebAPI\\AutoPartsB2B.WebAPI.csproj|c:\\users\\ali emre\\source\\repos\\autopartsb2b.sln\\autopartsb2b.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279DFFA5-8A2B-472E-845A-AE7162F08B64}|AutoPartsB2B.WebAPI\\AutoPartsB2B.WebAPI.csproj|solutionrelative:autopartsb2b.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA9BAA9C-1C4A-4B6C-8FB7-A39300D947E7}|AutoPartsB2B.Infrastructure\\AutoPartsB2B.Infrastructure.csproj|c:\\users\\ali emre\\source\\repos\\autopartsb2b.sln\\autopartsb2b.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA9BAA9C-1C4A-4B6C-8FB7-A39300D947E7}|AutoPartsB2B.Infrastructure\\AutoPartsB2B.Infrastructure.csproj|solutionrelative:autopartsb2b.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A4926B-A6E8-4BEB-BDE1-B3F32907A8ED}|AutoPartsB2B.Core\\AutoPartsB2B.Core.csproj|c:\\users\\ali emre\\source\\repos\\autopartsb2b.sln\\autopartsb2b.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A4926B-A6E8-4BEB-BDE1-B3F32907A8ED}|AutoPartsB2B.Core\\AutoPartsB2B.Core.csproj|solutionrelative:autopartsb2b.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279DFFA5-8A2B-472E-845A-AE7162F08B64}|AutoPartsB2B.WebAPI\\AutoPartsB2B.WebAPI.csproj|c:\\users\\ali emre\\source\\repos\\autopartsb2b.sln\\autopartsb2b.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279DFFA5-8A2B-472E-845A-AE7162F08B64}|AutoPartsB2B.WebAPI\\AutoPartsB2B.WebAPI.csproj|solutionrelative:autopartsb2b.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Emre\\source\\repos\\AutoPartsB2B.sln\\AutoPartsB2B.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AutoPartsB2B.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ali Emre\\source\\repos\\AutoPartsB2B.sln\\AutoPartsB2B.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AutoPartsB2B.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T14:57:07.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Emre\\source\\repos\\AutoPartsB2B.sln\\AutoPartsB2B.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "AutoPartsB2B.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Ali Emre\\source\\repos\\AutoPartsB2B.sln\\AutoPartsB2B.Core\\Entities\\User.cs",
+              "RelativeToolTip": "AutoPartsB2B.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T14:54:20.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Emre\\source\\repos\\AutoPartsB2B.sln\\AutoPartsB2B.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AutoPartsB2B.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Ali Emre\\source\\repos\\AutoPartsB2B.sln\\AutoPartsB2B.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AutoPartsB2B.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T14:51:34.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Emre\\source\\repos\\AutoPartsB2B.sln\\AutoPartsB2B.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AutoPartsB2B.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ali Emre\\source\\repos\\AutoPartsB2B.sln\\AutoPartsB2B.WebAPI\\Program.cs",
+              "RelativeToolTip": "AutoPartsB2B.WebAPI\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T21:47:25.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
